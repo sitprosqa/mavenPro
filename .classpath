@@ -29,5 +29,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/SS MULTI SERVICES/Desktop/Jenkins_learning/slf4j-api-2.0.0-alpha0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SS MULTI SERVICES/Downloads/web3j-4.3.0/lib/console-4.3.0-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SS MULTI SERVICES/Downloads/aqute.gwt.greeter.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
