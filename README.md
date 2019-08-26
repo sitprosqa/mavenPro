@@ -14,7 +14,7 @@ In order to run this demo, three pieces of information are required:
 [command line tools](https://docs.web3j.io/command_line.html) by running the command:
 3.  Some Ether. This can be requested from the [Rinkeby Faucet](https://www.rinkeby.io/#faucet).
 
-- To create a wallet file, run the command:
+- To create a wallet file, run the command:dsfsdfsdfds
 ```aidl
 web3j wallet create
 ```
